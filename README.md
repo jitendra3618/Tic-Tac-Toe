@@ -2,6 +2,7 @@
 <h1>Tic-Tac-Toe Game</h1>
 
 <p>Welcome to the Tic-Tac-Toe game! This is a simple and fun implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.</p>
+<h3>Live link</h3> https://jitendra3618.github.io/Tic-Tac-Toe/
 
 <h2>Table of Contents</h2>
 <ul>
