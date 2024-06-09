@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+
 <h1>Tic-Tac-Toe Game</h1>
 
 <p>Welcome to the Tic-Tac-Toe game! This is a simple and fun implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.</p>
